@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.classone {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 127, 127);
+}
+.classtwo {
+    font-size: 24px;
+}
+#idone {
+    color: rgb(42, 82, 190);
+    font-size: 36px;
+}
+#idtwo {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: 800;
+}
